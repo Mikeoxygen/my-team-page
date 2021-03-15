@@ -1,0 +1,85 @@
+
+          
+          html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit};
+         
+          
+            .cont-header{
+              display: flex;
+              flex-wrap: wrap;
+              align-items: center;
+              margin: 20vh;
+            }
+            .cont-header > * {
+              flex-grow: 1;
+            }
+            .devils-albatross {
+              flex-grow: 500;
+              
+              /*Substract 100% from a chosen threshold*/
+              flex-basis: calc((38rem - 100%) * 500);
+            }
+            
+                
+            h3{
+              
+            font-family: sans-serif;
+            color: #031927;
+            text-transform: capitalize;
+      
+          
+            }
+
+            p{
+              font-family: monospace;
+              font-size: 1.3rem;
+
+            }
+          
+              .team{
+                display:grid;
+                grid-gap: 5px;
+                grid-template-columns: repeat(auto-fit, 400px);
+                grid-template-rows: repeat(2, 1fr);
+                justify-content: space-around;
+                
+                
+              }
+                
+              
+
+                
+                .responsive{
+              width: 100%;
+              max-width: 300px;
+              height:auto;
+
+                }
+
+                .responsive:hover{
+                  transition: all 0.2s ease-in-out;
+                  opacity: 0.5;
+                }
+                  
+
+              
+            
+
+            
+
+            h3{
+              font-family: cursive;
+              font-size: 1.5;
+              font-weight: 600;
+              font-style:italic;
+              text-transform: capitalize;
+              margin-top: -2vh;
+
+            }
+
+            .role{
+              font-size: 20pt;
+              margin-top: -1vh;
+
+            }
+
+          
