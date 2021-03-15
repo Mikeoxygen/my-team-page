@@ -39,7 +39,7 @@ this is a challenge from devchallenges.io
 
 - When building this project i learnt a lot about CSS grid. i also learnt how to stryture problems the right way in order to get answers.
 
-- I leaernt abou some rules in css like(auto-fit and positioning)
+- I learnt abou some rules in css like(auto-fit and positioning)
 
   while i improved my knowledge on responsive design and css grid.
 
