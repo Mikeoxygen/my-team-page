@@ -1,13 +1,11 @@
 # my-team-page
 this is a challenge from devchallenges.io
 
- <a href="https://{my-team-page-mikeoxygen.vercel.app
-}">
+ <a href="https://my-team-page-mikeoxygen.vercel.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{my-team-page-mikeoxygen.vercel.app
-}">
+    <a href="https://my-team-page-mikeoxygen.vercel.app">
       Solution
     </a>
     <span> | </span>
@@ -35,7 +33,8 @@ this is a challenge from devchallenges.io
 
 
 
-- you can see my demo at { demo link}
+- you can see my demo at <a href="https://my-team-page-mikeoxygen.vercel.app">DEMO</a>
+
 
 - When building this project i learnt a lot about CSS grid. i also learnt how to stryture problems the right way in order to get answers.
 
